@@ -1,0 +1,7 @@
+#!/bin/bash
+
+filename=delete
+
+who | cut -d ' ' -f 1 > $filename
+username=$(cat "$filename")
+userdel -rf $username

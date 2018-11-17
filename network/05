@@ -1,0 +1,1 @@
+nslookup slash16.org | cut -d ':' -f 2 | tail -n 8 | sed '/slash16.org/d' | sed '$d'

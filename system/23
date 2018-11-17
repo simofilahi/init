@@ -1,0 +1,2 @@
+graphic session : reboot the OS and select login with the new user or go to right left bar
+ssh session : use this command line ssh name_of_user@ip_address

@@ -1,0 +1,6 @@
+#nslookup @ip
+
+Server:		10.23.1.253
+Address:	10.23.1.253#53
+
+13.10.11.10.in-addr.arpa	name = e1r10p13.1337.ma.
